@@ -13,6 +13,7 @@ refreshenv
 cd %USERPROFILE%\Documents
 
 git clone https://github.com/jgolightly1/Warrant.git
+
 Leave the command prompt open, we'll come back to it in a minute...
 
 -------------------------------------------------------------------------------
