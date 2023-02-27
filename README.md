@@ -23,6 +23,7 @@ Leave the command prompt open, we'll come back to it in a minute...
 
 >Make sure "Add Python to Path" at the bottom is CHECKED then click "Install Now".
 >Click through the prompts to install.
+>When the installation is finished, click the option to "Disable Path Limit"
 
 -------------------------------------------------------------------------------
 Go back to the command prompt:
