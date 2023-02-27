@@ -34,4 +34,14 @@ cd %USERPROFILE%\Documents\Warrant
 
 pip install -r requirements.txt
 
-cd %USERPROFILE%\Documents\Warrant\Shortcuts
+mkdir "%USERPROFILE%\Desktop\Search Warrant Tool"
+
+cd Shortcuts
+
+copy  "CDR Warrants.lnk" "%USERPROFILE%\Desktop\Search Warrant Tool\"
+
+copy  "General Warrants.lnk" "%USERPROFILE%\Desktop\Search Warrant Tool\"
+
+copy  "Inventory Warrants.lnk" "%USERPROFILE%\Desktop\Search Warrant Tool\"
+
+copy  "Social Warrants.lnk" "%USERPROFILE%\Desktop\Search Warrant Tool\"
