@@ -27,5 +27,9 @@ Leave the command prompt open, we'll come back to it in a minute...
 
 -------------------------------------------------------------------------------
 Go back to the command prompt:
+
+refreshenv
+
 cd %USERPROFILE%\Warrant
+
 pip install -r requirements.txt
