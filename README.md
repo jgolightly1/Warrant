@@ -30,6 +30,6 @@ Go back to the command prompt:
 
 refreshenv
 
-cd %USERPROFILE%\Warrant
+cd %USERPROFILE%\Documents\Warrant
 
 pip install -r requirements.txt
