@@ -45,3 +45,7 @@ copy  "General Warrants.lnk" "%USERPROFILE%\Desktop\Search Warrant Tool\"
 copy  "Inventory Warrants.lnk" "%USERPROFILE%\Desktop\Search Warrant Tool\"
 
 copy  "Social Warrants.lnk" "%USERPROFILE%\Desktop\Search Warrant Tool\"
+
+-------------------------------------------------------------------------------
+
+--- Completed warrants are in the "Documents\Warrant\Complete" folder
