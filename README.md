@@ -1,6 +1,6 @@
 # Warrant
 -------------------------------------------------------------------------------
-INSTALL Pre Requisites
+INSTALL INSTRUCTIONS
 -------------------------------------------------------------------------------
 (Menu > Type: cmd > right-click Command Prompt > Run as Administrator > Enter the following:)
 
