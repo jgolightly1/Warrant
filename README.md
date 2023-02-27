@@ -33,3 +33,5 @@ refreshenv
 cd %USERPROFILE%\Documents\Warrant
 
 pip install -r requirements.txt
+
+cd %USERPROFILE%\Documents\Warrant\Shortcuts
