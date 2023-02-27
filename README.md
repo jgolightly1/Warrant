@@ -21,7 +21,7 @@ Leave the command prompt open, we'll come back to it in a minute...
 > Open the folder called "PreRequirements" and click to install Python. The windows should look like this:
 ![win_installer](https://user-images.githubusercontent.com/32847002/221447750-ab62647c-9b4f-479c-a9bd-583df71d2adb.png)
 
->Make sure "Add Python to Path" at the bottom is CHECKED.
+>Make sure "Add Python to Path" at the bottom is CHECKED then click "Install Now".
 >Click through the prompts to install.
 
 -------------------------------------------------------------------------------
