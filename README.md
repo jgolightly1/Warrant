@@ -9,11 +9,13 @@ INSTALL Pre Requisites
 choco install python3 --version 3.12.0-a2 --pre -y
 choco install git --version 2.39.2 -y
 
+winget install -e --id Microsoft.VisualStudio.2022.BuildTools --override "--passive --wait --add Microsoft.VisualStudio.Workload.VCTools;includeRecommended"
+
 refreshenv
 
 set PYTHONPATH=list;of;paths
 
-cd %USERPROFILE%\Downloads
+cd %USERPROFILE%\Documents
 git clone https://github.com/jgolightly1/Warrant.git
 
 pip install -r requirements.txt
