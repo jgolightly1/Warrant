@@ -1,5 +1,5 @@
 import sys
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 from pathlib import Path
 from docxtpl import DocxTemplate
 import datetime
