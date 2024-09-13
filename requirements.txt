@@ -1,2 +1,2 @@
 docxtpl==0.16.5
-PySimpleGUI==4.60.4
+FreeSimpleGUI
